@@ -1,2 +1,3 @@
 Name:-Manoj Kumar Nayak
 City:-Bhubaneswar,Odisha
+Skills:- Python,SQL
